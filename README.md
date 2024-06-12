@@ -37,3 +37,13 @@ La aplicación **FlashSpeak** es una herramienta interactiva para la enseñanza 
     flutter run
     ```
 2. Abre la aplicación y comienza a explorar las diferentes categorías de flashcards.
+
+## 📷 Capturas
+
+![home](https://github.com/dannytamayo/flashspeak/assets/79533423/db642ce2-45f0-4b20-b211-74e0bd389c18)
+
+![flashcard](https://github.com/dannytamayo/flashspeak/assets/79533423/c247acfa-65d1-4935-bdf2-5291b8a19785)
+
+![good](https://github.com/dannytamayo/flashspeak/assets/79533423/099950f3-fd6b-4ba8-bdc4-07d4a2721f63)
+
+![bad](https://github.com/dannytamayo/flashspeak/assets/79533423/fcc23258-f348-4abf-b872-ed633854a826)
